@@ -1,7 +1,7 @@
 # Multiple Linear Regression
 
 # Importing the dataset
-dataset = read.csv('C:\\Users\\Vaibhav\\Desktop\\Machine Learning Dataset Implementation\\tmdb-5000-movie-dataset\\tmdb_5000_movies.csv')
+dataset = read.csv('tmdb_5000_movies.csv')
 dataset=dataset[c('budget','popularity','runtime','vote_average','vote_count','revenue')]
 
 
