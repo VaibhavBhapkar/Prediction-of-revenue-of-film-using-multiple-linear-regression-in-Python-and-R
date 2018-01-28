@@ -7,6 +7,8 @@ This project deals to build a multiple linear regression model for prediction of
 5. Prediction of revenue of film
 
 After performing this steps Performance obtained by regression model is measured by r2 performance metrics and it shows result of 0.7135.
+
+
 Coefficients:
                Estimate Std. Error t value Pr(>|t|)    
 (Intercept)  -4.509e+06  8.901e+06  -0.507    0.613    
